@@ -79,11 +79,9 @@ Matriz2D::Matriz2D(Matriz2D&& m) {
 
 Matriz2D t(Matriz2D& m){
     // Transpuesta de una matriz
-    Matriz2D m2(m.columnas, m.filas);
-
-    for(int i=0; i<m.filas; i++){
-        m2.ptr[i] = new float[m.columnas];
-        for(int j=0; j<m.columnas; j++){
+    Matriz2D m2(m.getColumnas(), m.getFilas());
+    for(int i=0; i<m.getFilas(); i++) {
+        for (int j = 0; j < m.getColumnas(); j++) {
             m2.ptr[j][i] = m.ptr[i][j]; // se intercambian las filas por las columnas
         }
     }
