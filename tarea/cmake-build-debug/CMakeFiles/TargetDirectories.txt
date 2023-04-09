@@ -1,5 +1,0 @@
-C:/Users/IRAN/CLionProjects/ProgramacionIII/tareas/tarea1/tarea1a-iranalvarez27/tarea/cmake-build-debug/CMakeFiles/tarea.dir
-C:/Users/IRAN/CLionProjects/ProgramacionIII/tareas/tarea1/tarea1a-iranalvarez27/tarea/cmake-build-debug/CMakeFiles/ejercicio.dir
-C:/Users/IRAN/CLionProjects/ProgramacionIII/tareas/tarea1/tarea1a-iranalvarez27/tarea/cmake-build-debug/CMakeFiles/codigo.dir
-C:/Users/IRAN/CLionProjects/ProgramacionIII/tareas/tarea1/tarea1a-iranalvarez27/tarea/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/IRAN/CLionProjects/ProgramacionIII/tareas/tarea1/tarea1a-iranalvarez27/tarea/cmake-build-debug/CMakeFiles/rebuild_cache.dir
