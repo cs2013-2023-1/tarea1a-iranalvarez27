@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\IRAN\CLionProjects\ProgramacionIII\tareas\tarea1\tarea1a-iranalvarez27\tarea Select CMakeLists.txt
